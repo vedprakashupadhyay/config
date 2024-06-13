@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local Prod APIs "
   contactDetails:
     name: "Ved prakash Prod Lead"
-    email: "151946f5137f9e6729777733a82a7b00f49002bebd8a3e35546d6cd3a6788c7efda411eb2f907f34c795cd1670ecd779"
+    email: "{cipher}151946f5137f9e6729777733a82a7b00f49002bebd8a3e35546d6cd3a6788c7efda411eb2f907f34c795cd1670ecd779"
   onCallSupports:
     - (555) 555-1234
     - (555) 523-1345
