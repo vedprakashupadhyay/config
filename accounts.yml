@@ -1,0 +1,10 @@
+build:
+  version: "1.0.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Ved prakash"
+    email: "ved.prakash@dsgroup.com"
+  onCallSupports:
+    - (555) 555-1234
+    - (555) 523-1345
